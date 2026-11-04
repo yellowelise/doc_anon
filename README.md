@@ -6,11 +6,13 @@ Software freeware fatto da: **Andrea Battellocchi - Docente Informatica - Consul
 
 ![Doc Anon: revisione degli oscuramenti e selettore della qualità PDF](verification/review-0.2.1.png)
 
-La repository contiene i sorgenti e gli script per generare eseguibile, ZIP e installer. I pacchetti compilati, i modelli scaricati e i documenti locali non sono versionati: per creare i pacchetti seguire la sezione **Build Windows**.
+La repository contiene i sorgenti e gli script per generare eseguibile, ZIP e installer. L'installer pronto è disponibile nelle [release](https://github.com/yellowelise/doc_anon/releases/latest). I modelli scaricati e i documenti locali non sono versionati; per ricompilare i pacchetti seguire la sezione **Build Windows**.
 
 ## Installazione Windows
 
-Avviare **`dist/DocAnon-Setup-0.2.1-x64.exe`** e seguire la procedura in italiano. Il programma viene installato per l'utente corrente, normalmente in `%LOCALAPPDATA%\Programs\Doc Anon`, senza richiedere privilegi di amministratore. Viene creato il collegamento nel menu Start; quello sul desktop è facoltativo. Il nuovo installer mantiene la stessa identità dell'app e aggiorna la versione 0.1.0 conservando le risorse scaricate.
+**[Scarica l'installer Windows 0.2.1 (x64)](https://github.com/yellowelise/doc_anon/releases/download/v0.2.1/DocAnon-Setup-0.2.1-x64.exe)** · [Checksum SHA-256](https://github.com/yellowelise/doc_anon/releases/download/v0.2.1/DocAnon-Setup-0.2.1-x64.exe.sha256)
+
+Avviare **`DocAnon-Setup-0.2.1-x64.exe`** e seguire la procedura in italiano. Il programma viene installato per l'utente corrente, normalmente in `%LOCALAPPDATA%\Programs\Doc Anon`, senza richiedere privilegi di amministratore. Viene creato il collegamento nel menu Start; quello sul desktop è facoltativo. Il nuovo installer mantiene la stessa identità dell'app e aggiorna le versioni precedenti conservando le risorse scaricate.
 
 L'installer include tutte le librerie e il motore OCR. Al primo avvio dell'app scegliere **Scarica e prepara** per il modello e i dati OCR (circa 1,3 GB). Questi restano separati in `%LOCALAPPDATA%\DocAnon`. I successivi avvii funzionano offline.
 
