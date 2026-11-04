@@ -1,0 +1,16 @@
+.venv/
+.tools/
+__pycache__/
+.pytest_cache/
+build/
+dist/
+.test-data/
+vendor/tesseract/
+*.spec.bak
+graphify-out/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+verification/welcome*.png

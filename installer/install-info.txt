@@ -1,0 +1,16 @@
+Doc Anon — i tuoi documenti, solo sul tuo PC
+
+Questa installazione include l'applicazione, il motore OCR e le librerie necessarie.
+Non occorre installare Python o altri programmi separatamente.
+
+Al primo avvio scegli "Scarica e prepara": il modello italiano e i dati OCR
+richiedono circa 1,3 GB di download. Dopo la preparazione puoi lavorare senza Internet.
+
+Apri un documento, controlla gli oscuramenti proposti e correggili sulle pagine.
+Al termine puoi salvare una copia lite e una copia anonima. L'originale rimane invariato.
+
+Windows 10/11 x64. Consigliati almeno 8 GB di RAM.
+Spazio necessario: circa 750 MB per l'app e almeno 1,6 GB liberi per preparare le risorse.
+
+L'installazione riguarda soltanto l'utente corrente.
+La disinstallazione conserva i modelli scaricati e i documenti esportati.

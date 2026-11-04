@@ -1,0 +1,33 @@
+DOC ANON — versione Windows 0.2.1
+
+1. Estrai tutta la cartella dello ZIP.
+2. Avvia DocAnon.exe lasciando la cartella _internal al suo posto.
+3. Premi Scarica e prepara (circa 1,3 GB; serve Internet solo per questo passaggio).
+4. Quando è pronto puoi scollegare Internet.
+5. Apri il documento, controlla ogni pagina e correggi le aree proposte.
+6. Conferma la revisione ed esporta le due copie nella cartella che preferisci.
+
+Qualità PDF: Compatta (150 DPI), Standard (300 DPI, predefinita), Alta (600 DPI).
+Una qualità maggiore produce più dettaglio ma richiede più memoria e spazio.
+Per pagine molto grandi, eventuali limiti di risoluzione sono indicati accanto al selettore.
+Lo zoom dell'anteprima ridisegna il dettaglio dal documento originale.
+Usa +, -, Adatta oppure Ctrl + rotella. Lo zoom non modifica la qualità esportata.
+
+Area manuale: trascina un rettangolo sulla pagina.
+Seleziona un'area: modifica iniziali, posizione e dimensioni, oppure rimuovila.
+Ctrl+Z: annulla modifica. Ctrl+O: apri. Ctrl+S: esporta, dopo aver confermato la revisione.
+
+L'originale rimane invariato. Ogni esportazione ha una nuova sottocartella.
+La versione lite usa iniziali per i nomi; l'anonima usa [omesso].
+La revisione non viene salvata: esporta prima di chiudere.
+Controlla anche firme, scrittura a mano e dati non riconosciuti.
+Il nome del file non viene anonimizzato automaticamente.
+
+Formati: PDF, TXT, Markdown. Limiti: 25 MB, 250 pagine, 40 pagine OCR.
+Richiede Windows 10/11 x64. Consigliati almeno 8 GB RAM.
+Le risorse sono conservate in %LOCALAPPDATA%\DocAnon.
+Per ripararle: Risorse > Verifica / ripara risorse.
+
+Questo eseguibile non è firmato digitalmente.
+Codice sorgente e istruzioni di compilazione accompagnano il progetto doc_anon.
+Attribuzioni: THIRD_PARTY_NOTICES.md e _internal/vendor.

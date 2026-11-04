@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "version": "0.2.0",
+  "isolatedIdentity": true,
+  "installed": true,
+  "reinstalled": true,
+  "payloadFilesVerified": 4665,
+  "shortcutVerified": true,
+  "offlineSelfTest": {
+    "ok": true,
+    "frozen": true,
+    "network_attempts": 0,
+    "native_areas": 3,
+    "export_dpi_verified": [
+      150,
+      300,
+      600
+    ],
+    "scanned_areas": 3,
+    "bundled_ocr": true,
+    "dynamic_preview_verified": true,
+    "seconds": 14.78
+  },
+  "uninstalled": true,
+  "outputsPreserved": true,
+  "productionInstallationPreserved": true
+}

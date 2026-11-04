@@ -1,0 +1,40 @@
+DOC ANON — versione Windows 0.2.1
+
+1. Avvia Doc Anon dal menu Start.
+2. Al primo avvio premi Scarica e prepara (circa 1,3 GB).
+3. Quando è pronto puoi scollegare Internet.
+4. Apri un PDF, TXT o Markdown e controlla tutte le pagine.
+5. Correggi, aggiungi o rimuovi gli oscuramenti proposti.
+6. Conferma la revisione ed esporta le due copie nella cartella che preferisci.
+
+Qualità PDF: Compatta (150 DPI), Standard (300 DPI, predefinita), Alta (600 DPI).
+Una qualità maggiore produce più dettaglio ma richiede più memoria e spazio.
+Per pagine molto grandi, eventuali limiti di risoluzione sono indicati accanto al selettore.
+Lo zoom dell'anteprima ridisegna il dettaglio dal documento originale.
+Usa +, -, Adatta oppure Ctrl + rotella. Lo zoom non modifica la qualità esportata.
+
+Area manuale: trascina un rettangolo sulla pagina.
+Seleziona un'area: modifica iniziali, posizione e dimensioni, oppure rimuovila.
+Ctrl+Z: annulla modifica. Ctrl+O: apri. Ctrl+S: esporta, dopo la conferma.
+
+L'originale rimane invariato. Ogni esportazione ha una nuova sottocartella.
+La versione lite usa iniziali per i nomi; l'anonima usa [omesso].
+La revisione rimane in memoria: esporta prima di chiudere.
+Controlla anche firme, scrittura a mano e dati non riconosciuti.
+Il nome del file non viene anonimizzato automaticamente.
+
+Formati: PDF, TXT, Markdown. Limiti: 25 MB, 250 pagine, 40 pagine OCR.
+Richiede Windows 10/11 x64. Consigliati almeno 8 GB RAM.
+
+Il programma è installato, per impostazione predefinita, in:
+%LOCALAPPDATA%\Programs\Doc Anon
+
+Le risorse sono conservate separatamente in:
+%LOCALAPPDATA%\DocAnon
+
+Per riparare le risorse: Risorse > Verifica / ripara risorse.
+Per disinstallare: Impostazioni di Windows > App > Doc Anon > Disinstalla.
+La disinstallazione non cancella i modelli scaricati o i documenti esportati.
+
+Installer ed eseguibile non sono firmati digitalmente.
+Attribuzioni: THIRD_PARTY_NOTICES.md e _internal/vendor.

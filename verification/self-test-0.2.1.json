@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "frozen": true,
+  "network_attempts": 0,
+  "native_areas": 3,
+  "export_dpi_verified": [
+    150,
+    300,
+    600
+  ],
+  "scanned_areas": 3,
+  "bundled_ocr": true,
+  "dynamic_preview_verified": true,
+  "seconds": 47.81
+}
